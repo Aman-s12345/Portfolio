@@ -25,6 +25,13 @@ The front-end of the platform is built using ReactJS, which allows for the creat
 Navigate through a spatial representation of my professional journey, where each project is not just a listing but a visual and interactive experience. The 3D.js library adds depth to the presentation, allowing you to engage with the details of each project and gain insights into my skills and contributions.
 ![Main Page](images/portfolio_4.png)
 
-You can contact me using e-mail
+
+Got a project you're passionate about? Share the details with me directly through the portfolio! The contact form is not just a gateway to communication; it's a portal for collaboration. Let's bring your project to life in style.
+
 ![Main Page](images/portfolio_5.png)
+
+Embark on a unique journey of connection and creativity through my portfolio's innovative contact section. Say goodbye to mundane forms – here, you can reach out to me in style! Witness a captivating 3D animation that adds a touch of magic to the traditional contact box. It's not just a form; it's an experience.
+
+![Main Page](images/portfolio_6.png)
+
 
